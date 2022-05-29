@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo-curse",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo",
+  "main": "asincronismo-curse/index.js",
+  "scripts": {
+    "callback": "node callback/index.js",
+    "callback:challenge":"node callback/challenge.js" 
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "MIT",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
