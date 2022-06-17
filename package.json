@@ -5,7 +5,11 @@
   "main": "asincronismo-curse/index.js",
   "scripts": {
     "callback": "node callback/index.js",
-    "callback:challenge":"node callback/challenge.js" 
+    "callback:challenge":"node callback/challenge.js",
+    "promise": "node promise/promises.js",
+    "promise:challenge" : "node promise/challenge.js",
+    "async" : "node async/asyncs.js",
+    "async:challenge" : "node async/challenge.js"
   },
   "keywords": [
     "callbacks",
